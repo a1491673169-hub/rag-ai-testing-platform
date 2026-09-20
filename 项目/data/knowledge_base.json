@@ -1,0 +1,22 @@
+[
+  {"document_id": "warranty_001", "title": "动力电池质保", "content": "动力电池质保期限为8年或16万公里，以先到者为准。", "category": "质保"},
+  {"document_id": "warranty_002", "title": "整车质保", "content": "整车质保期限为4年或10万公里，以先到者为准。", "category": "质保"},
+  {"document_id": "return_001", "title": "退换货期限", "content": "商品签收后7天内，在不影响二次销售的情况下可以申请退货。", "category": "退换货"},
+  {"document_id": "return_002", "title": "退货运费", "content": "符合质量问题的退货由售后承担运费，非质量问题通常由客户承担。", "category": "退换货"},
+  {"document_id": "repair_001", "title": "维修预约", "content": "车辆需要维修时，可以通过官方App或客服电话提前预约服务中心。", "category": "维修"},
+  {"document_id": "repair_002", "title": "维修进度", "content": "维修完成后，系统会通过短信或App通知车主取车。", "category": "维修"},
+  {"document_id": "account_001", "title": "账号找回", "content": "忘记账号密码时，可以使用绑定手机号接收验证码后重置密码。", "category": "账号"},
+  {"document_id": "account_002", "title": "修改手机号", "content": "修改绑定手机号需要在App中完成身份验证，并通过新手机号确认。", "category": "账号"},
+  {"document_id": "charge_001", "title": "家用充电", "content": "家用充电桩支持预约充电，车主可以在App中设置开始时间。", "category": "充电"},
+  {"document_id": "charge_002", "title": "公共充电", "content": "公共充电站的充电费用和服务费以充电站页面展示的实时价格为准。", "category": "充电"},
+  {"document_id": "battery_001", "title": "电池保养", "content": "建议避免动力电池长期处于满电或低电状态，并使用符合要求的充电设备。", "category": "电池"},
+  {"document_id": "battery_002", "title": "低温续航", "content": "低温环境可能导致续航里程暂时下降，车辆恢复常温后通常会改善。", "category": "电池"},
+  {"document_id": "update_001", "title": "软件升级方式", "content": "车辆软件支持在联网状态下通过App检查并进行远程升级。", "category": "软件升级"},
+  {"document_id": "update_002", "title": "升级注意事项", "content": "软件升级期间请保持车辆电量充足，不要断开网络或关闭车辆电源。", "category": "软件升级"},
+  {"document_id": "policy_001", "title": "售后服务时间", "content": "官方售后服务时间为每天9点至18点，法定节假日安排以公告为准。", "category": "售后政策"},
+  {"document_id": "policy_002", "title": "售后服务范围", "content": "售后服务包括故障咨询、维修预约、保养建议和质保政策咨询。", "category": "售后政策"},
+  {"document_id": "fault_001", "title": "车辆无法启动", "content": "车辆无法启动时，请先确认钥匙电量、车辆电量和挡位状态，仍无法启动请联系救援。", "category": "常见故障"},
+  {"document_id": "fault_002", "title": "充电中断", "content": "充电中断时，请检查充电枪是否插紧、充电桩是否正常，并尝试重新插拔。", "category": "常见故障"},
+  {"document_id": "fault_003", "title": "App无法连接车辆", "content": "App无法连接车辆时，请检查网络并重新登录，持续异常可联系售后。", "category": "常见故障"},
+  {"document_id": "product_001", "title": "随车充电线", "content": "新车通常随车提供便携式充电线，具体配置以购车合同和交付清单为准。", "category": "产品"}
+]

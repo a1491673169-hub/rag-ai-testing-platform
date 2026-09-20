@@ -1,0 +1,1109 @@
+{
+  "baseline": {
+    "top_k": 3,
+    "metrics": {
+      "hit_at_3": 0.9,
+      "recall_at_3": 0.9,
+      "precision_at_3": 0.3444,
+      "mrr": 0.8639,
+      "answer_correctness": 0.8972,
+      "faithfulness": 1.0
+    }
+  },
+  "candidate": {
+    "top_k": 5,
+    "metrics": {
+      "hit_at_3": 0.9,
+      "recall_at_3": 0.9,
+      "precision_at_3": 0.3444,
+      "mrr": 0.8639,
+      "answer_correctness": 0.8972,
+      "faithfulness": 1.0
+    }
+  },
+  "regression_cases": [],
+  "baseline_cases": {
+    "case_001": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_002": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_003": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_004": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_005": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_006": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_007": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_008": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_009": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_010": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_011": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_012": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_013": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_014": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_015": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_016": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_017": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 0.5,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_018": {
+      "status": "RETRIEVAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_019": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_020": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_021": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_022": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_023": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_024": {
+      "status": "REFUSAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_025": {
+      "status": "REFUSAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_026": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_027": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_028": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_029": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_030": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_031": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_032": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_033": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_034": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_035": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_036": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_037": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_038": {
+      "status": "RETRIEVAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.3333333333333333,
+      "faithfulness": 1.0
+    },
+    "case_039": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_040": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_041": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_042": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_043": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_044": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 0.5,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_045": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_046": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_047": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_048": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_049": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_050": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_051": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_052": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_053": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_054": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 0.5,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_055": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_056": {
+      "status": "REFUSAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_057": {
+      "status": "REFUSAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_058": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_059": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_060": {
+      "status": "GENERATION_FAILURE",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 0.3333333333333333,
+      "answer_correctness": 0.5,
+      "faithfulness": 1.0
+    }
+  },
+  "candidate_cases": {
+    "case_001": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_002": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_003": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_004": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_005": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_006": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_007": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_008": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_009": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_010": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_011": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_012": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_013": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_014": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_015": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_016": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_017": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 0.5,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_018": {
+      "status": "RETRIEVAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_019": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_020": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_021": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_022": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_023": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_024": {
+      "status": "REFUSAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_025": {
+      "status": "REFUSAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_026": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_027": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_028": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_029": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_030": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_031": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_032": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_033": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_034": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_035": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_036": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_037": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_038": {
+      "status": "RETRIEVAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.3333333333333333,
+      "faithfulness": 1.0
+    },
+    "case_039": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_040": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_041": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_042": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_043": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_044": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 0.5,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_045": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_046": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_047": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_048": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_049": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_050": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_051": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_052": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_053": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_054": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 0.5,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_055": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_056": {
+      "status": "REFUSAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_057": {
+      "status": "REFUSAL_FAILURE",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_3": 0.0,
+      "mrr": 0.0,
+      "answer_correctness": 0.0,
+      "faithfulness": 1.0
+    },
+    "case_058": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_059": {
+      "status": "PASS",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.6666666666666666,
+      "mrr": 1.0,
+      "answer_correctness": 1.0,
+      "faithfulness": 1.0
+    },
+    "case_060": {
+      "status": "GENERATION_FAILURE",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "mrr": 0.3333333333333333,
+      "answer_correctness": 0.5,
+      "faithfulness": 1.0
+    }
+  }
+}
